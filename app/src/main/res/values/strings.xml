@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ProductoMaterial</string>
+    <string name="action_settings">Settings</string>
+    <string name="registro">REGISTRO DE PRODUCTOS</string>
+    <string name="codigo">Codigo</string>
+    <string name="nombre">Nombre</string>
+    <string name="precio">Precio</string>
+    <string name="guardar">Guardar</string>
+    <string name="borrar">Borrar</string>
+    <string name="mensaje_error_codigo">Digite el codigo</string>
+    <string name="mensaje_error_nombre">Digite el nombre</string>
+    <string name="mensaje_error_precio">Digite el precio</string>
+    <string name="mensaje_exitoso_guardar">Producto Guardado Exitosamente!!</string>
+</resources>
